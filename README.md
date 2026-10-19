@@ -4,7 +4,8 @@ A React frontend for tracking personal expenses. Users can create an account, si
 
 ## Features
 
-- User registration and login
+- User registration
+- Login page
 - Dashboard with expense summaries and recent transactions
 - Add, view, update, and delete expenses
 - Weekly and monthly expense data
