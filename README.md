@@ -1,6 +1,6 @@
 # Expense Tracker
 
-A React frontend for tracking personal expenses. Users can create an account, sign in, review expense summaries and recent transactions, and add or update expense records.
+A React frontend for tracking personal expenses. Users can create an account, sign in, review expense summaries and recent transactions, and add or update expense records. This project is built for tracking expense and generating reports.
 
 ## Features
 
